@@ -56,10 +56,8 @@ The goal of this task was to implement and understand both **Simple** and **Mult
 ---
 
 ## 📂 Output
-Check the notebook `Task_3_Linear_Regression.ipynb` for code, results, and plots.
+Check the notebook `python.ipynb` for code, results, and plots.
 
----
 
-## 🚀 Submission
-✅ [✔️ Completed and submitted](https://forms.gle/8Gm83s53KbyXs3Ne9)
+
 
